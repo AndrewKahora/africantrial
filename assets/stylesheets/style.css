@@ -4,6 +4,13 @@
         max-width: 1200px;
 */
     }
+   img{
+   display: inline-block;
+    vertical-align: top;
+    }
+.Wrapper img{ float: left; }
+
+.Wrapper{ width: 100%; }
 
     /*-- our cleafix hack -- */
     .row:before,
