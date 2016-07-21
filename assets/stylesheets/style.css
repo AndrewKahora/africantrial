@@ -1,6 +1,8 @@
+/*
 .grid-container{
         width: 100%;
         max-width: 1200px;
+*/
     }
 
     /*-- our cleafix hack -- */
@@ -51,3 +53,7 @@
 @media all and (max-width:650px){
         .col-1{ width: 50%;        }
         .col-2{ width: 100%;    }
+
+    .size1{
+        display: inline-block;
+    }
