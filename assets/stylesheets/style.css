@@ -8,7 +8,7 @@
    display: inline-block;
     vertical-align: top;
     }
-.Wrapper img{ float: left; }
+.Wrapper img{ float: right; }
 
 .Wrapper{ width: 100%; }
 
@@ -44,10 +44,6 @@
      margin: 0;
      text-align: center;
      color: white;
-    }
-    .imag{
-       width:100px;
-       height: 100px;
     }
    @media all and (max-width:800px){
         .col-1{ width: 33.33%;    }
