@@ -7,11 +7,15 @@
    img{
    display: inline-block;
     vertical-align: top;
+       margin-left: 5px;
+       padding-left: 34px;
     }
 .Wrapper img{ float: right; }
-
+.Wrapper p{ display: inline-block;}
 .Wrapper{ width: 100%; }
-
+.div Wrapper{
+    display: inline-block;
+}
     /*-- our cleafix hack -- */
     .row:before,
     .row:after {
